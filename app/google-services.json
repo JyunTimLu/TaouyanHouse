@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714894399750",
+    "firebase_url": "https://timsfirebase.firebaseio.com",
+    "project_id": "timsfirebase",
+    "storage_bucket": "timsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714894399750:android:af09698723d74ba4",
+        "android_client_info": {
+          "package_name": "tim.tayouanhouseprice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714894399750-t2hkd0gsrm3u8qo4g126cd6r66o5llsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tim.tayouanhouseprice",
+            "certificate_hash": "E469E474AF608C2985B8270FB8CC1113CF2B297C"
+          }
+        },
+        {
+          "client_id": "714894399750-kq5vderki86e8luse3kfktv60hecsqlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DyVIrmpmpDQWvNvF2jXgNzna3h6gxH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714894399750-kq5vderki86e8luse3kfktv60hecsqlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
