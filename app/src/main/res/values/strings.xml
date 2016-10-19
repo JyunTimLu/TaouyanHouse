@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">TayouanHousePrice</string>
-    <string name="trade_date">交易年月日：%s</string>
+    <string name="trade_date">交易年月日： %s</string>
+    <string name="trade_target">交易標的物：%s</string>
+    <string name="house_age">屋齡：%s 年</string>
+    <string name="building_type">建物型態：%s</string>
+    <string name="building_size">建物面積：%s 坪</string>
+    <string name="sale_and_total_floor">樓層 / 總樓層：%1$s / %2$s</string>
     <string name="address">地址：%s</string>
     <string name="price">總價：%s 萬元</string>
 </resources>
